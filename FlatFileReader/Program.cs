@@ -9,8 +9,8 @@ namespace FlatFileReader
     {
         static void Main(string[] args)
         {
-            string flatFile = @"C:\Users\admin\Downloads\ANK_DAILY_CLAIM_EXTRACT_8-16-2018 (1).txt";
-            string xmlFile = @"C:\Users\admin\Downloads\John_Hopkins_837.xml";
+            string flatFile = @"..\..\..\ANK_DAILY_CLAIM_EXTRACT_8-16-2018 (1).txt";
+            string xmlFile = @"..\..\..\John_Hopkins_837.xml";
             Exception exception = null;
 
             try
